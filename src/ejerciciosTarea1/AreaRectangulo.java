@@ -20,7 +20,7 @@ public class AreaRectangulo {
 			
 		System.out.println("El area del rectangulo es: " +area);	
 	
-		input.close();
+		input.close(); //fin de Scanner
 		
 	}
 

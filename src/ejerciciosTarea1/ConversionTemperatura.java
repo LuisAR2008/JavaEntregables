@@ -18,7 +18,7 @@ public class ConversionTemperatura {
 		System.out.println("Los Grados Farenheit son: " +gradosF);
 		System.out.println("Los Grados Kelvin son: " +gradosK);
 
-		input.close();
+		input.close(); //fin de Scanner
 	}
 
 }

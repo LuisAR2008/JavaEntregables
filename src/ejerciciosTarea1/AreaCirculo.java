@@ -16,7 +16,7 @@ public class AreaCirculo {
 		
 	    System.out.println("El area del circulo es: " +area);
 		
-	    input.close();
+	    input.close(); //fin Scanner
 
 	}
 
